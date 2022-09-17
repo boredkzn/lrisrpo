@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <TextBox Text="WELCOME TO GIT" TextWrapping="Wrap" Width="120" Margin="95,175,585,185"/>
+        <Button Content="Кнопка
+                " Margin="282,51,237,253"/>
 
     </Grid>
 </Window>
